@@ -1,0 +1,3 @@
+## Gridrun entry point. S0 skeleton: prints the game name.
+fn main()
+    print("gridrun")

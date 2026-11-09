@@ -1,0 +1,3 @@
+## Smoke test: the toolchain runs a test in this repository.
+@test fn smoke()
+    assert_eq(1 + 1, 2)
