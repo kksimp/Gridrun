@@ -11,7 +11,7 @@ Planned: left/right turn, up/down accelerate and brake, Esc quit.
 Planned. An agent will send the same `Input` values a human does and will read the screen (`ail attach screen`) or structured observations (`ail attach observe`). With nothing attached the game pays no extra cost per frame.
 
 ## Development
-Pinned to the ail commit in `.ail-version`. On a dev machine with ail at `../ail`:
+Pinned to the ail commit in `.ail-version`, the ail v0.2.0 release commit. On a dev machine with ail at `../ail`:
 
     tools/check.sh
 
